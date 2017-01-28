@@ -1,6 +1,23 @@
 
 
 
+1/28/16
+cloned the repo
+chnaged to specific branch
+pulled curent data folders filed down to local machine
+
+made some changes in this file testdoc1 and going to try a push to the branch only
+via git command
+git push -u origin your_branch
+
+cloned the repo
+chnaged to specific branch
+pulled curent data folders filed down to local machine
+
+made some changes in this file testdoc1 and going to try a push to the branch only
+via git command
+git push -u origin your_branch
+
 testdoc1
 
 testdoc1
